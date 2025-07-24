@@ -1,4 +1,3 @@
-source activate ../MPR_env
 top_k=5
 gpu_id=1
 task_type="Lastfm-360K"
