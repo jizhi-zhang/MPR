@@ -1,4 +1,3 @@
-source activate ../MPR_env
 top_k=5
 gpu_id=7
 task_type="ml-1m"
