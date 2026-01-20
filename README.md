@@ -86,3 +86,7 @@ Next, launch the training process with:
 bash scripts/DRFO/drfo_run_ml-1m.sh
 bash scripts/DRFO/drfo_run_lastfm.sh
 ```
+
+## Theoretical Note
+
+We provide a revised derivation in correction_for_theorem_5.3.pdf, which corrects Theorem 5.3. Note that this correction does not affect the proposed method or the main empirical results.
